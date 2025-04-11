@@ -1,0 +1,87 @@
+🔹 Product Description (HTML Format):
+```html
+<h2><strong>Rafia Gold EDP - 20ML</strong>: A Luxurious Fragrance Experience</h2>
+<p>Indulge in the opulence of <strong>Rafia Gold EDP</strong>, a fragrance that captures the essence of luxury and elegance. This exquisite perfume is perfect for those who seek a scent that is both captivating and timeless. 🌸💫</p>
+
+<table>
+  <tr>
+    <th>Product Info</th>
+  </tr>
+  <tr>
+    <td>Size</td>
+    <td>20ML</td>
+  </tr>
+  <tr>
+    <td>Gender</td>
+    <td>Unisex</td>
+  </tr>
+  <tr>
+    <td>Product Type</td>
+    <td>Perfume</td>
+  </tr>
+  <tr>
+    <td>Concentration</td>
+    <td>Eau de Parfum</td>
+  </tr>
+  <tr>
+    <td>Brand</td>
+    <td>Rafia</td>
+  </tr>
+</table>
+
+<h3><strong>Fragrance Notes</strong></h3>
+<table>
+  <tr>
+    <th>Top Notes</th>
+    <td>Citrus, Bergamot</td>
+  </tr>
+  <tr>
+    <th>Heart Notes</th>
+    <td>Jasmine, Rose</td>
+  </tr>
+  <tr>
+    <th>Base Notes</th>
+    <td>Amber, Musk</td>
+  </tr>
+</table>
+
+<p>🌿 <strong>Key Features:</strong></p>
+<ul>
+  <li>Long-lasting fragrance that evolves beautifully on the skin.</li>
+  <li>Perfectly balanced blend of floral and amber notes.</li>
+  <li>Ideal for both day and night wear.</li>
+</ul>
+
+<p>✨ Discover the allure of <a href="https://xsellpoint.com/product/rafia-gold-edp-20ml/">Rafia Gold EDP</a>, a creation by the renowned <a href="https://xsellpoint.com/product-category/oriental-fragrance/arabic-perfume/">Rafia brand</a>. Inspired by the richness of <a href="https://www.fragrantica.com/perfume/Rafia-Gold-EDP.html">ancient perfumery</a>, this fragrance is designed for the modern connoisseur.</p>
+
+<h4><strong>Frequently Asked Question</strong></h4>
+<p><strong>What occasions is Rafia Gold EDP best suited for?</strong></p>
+<p>Rafia Gold EDP is versatile, making it ideal for both casual and formal occasions. Its unique blend of <a href="https://www.fragrantica.com/notes/Bergamot.html">bergamot</a> and <a href="https://www.fragrantica.com/notes/Amber.html">amber</a> creates a captivating aura that leaves a lasting impression. 🔥💎</p>
+```
+
+🔹 Short Description (Max 50 words):
+Immerse yourself in the luxurious allure of Rafia Gold EDP. This 20ML fragrance harmoniously blends citrus, jasmine, and amber notes, offering an unforgettable scent for any occasion. 🌸✨
+
+🔹 SEO Title (Max 60 characters):
+Rafia Gold EDP - 20ML: Luxurious Perfume for All
+
+🔹 Meta Description (Max 155 characters):
+Discover Rafia Gold EDP, a luxurious 20ML fragrance with citrus and amber notes. Perfect for every occasion. Shop now for an unforgettable scent. 🌿💫
+
+🔹 Alt Text for Product Images:
+Rafia Gold EDP 20ML luxury fragrance bottle
+
+🔹 Image Title:
+Rafia Gold EDP - 20ML
+
+🔹 Image Caption:
+Elegance captured in a bottle - Rafia Gold EDP
+
+🔹 Image Description:
+Rafia Gold EDP - 20ML, featuring a blend of citrus and amber notes for a luxurious fragrance experience.
+
+🔹 SEO Tags (6 High-Search Keywords):
+Rafia Gold EDP, luxury perfume, unisex fragrance, amber perfume, floral scent, Eau de Parfum
+
+🔹 Focus Keywords:
+Rafia Gold EDP, luxury fragrance, amber perfume, unisex scent

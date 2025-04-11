@@ -1,0 +1,17 @@
+{
+    "start_time": "2025-03-31 10:18:32",
+    "end_time": "2025-03-31 10:21:29",
+    "duration_seconds": 176.757322,
+    "duration_formatted": "0:02:56.757322",
+    "total_products": 7,
+    "successful": 7,
+    "failed": 0,
+    "success_rate": "100.00%",
+    "configuration": {
+        "input_file": "fragrance_products.xlsx",
+        "output_dir": "seo_outputs",
+        "threads": 1,
+        "batch_size": null,
+        "start_index": 0
+    }
+}

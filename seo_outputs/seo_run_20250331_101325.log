@@ -1,0 +1,34 @@
+[2025-03-31 10:13:25] Loaded 1 products from fragrance_products.xlsx
+[2025-03-31 10:13:25] 🚀 Starting Fragrance SEO Content Generator with GPT-4o
+[2025-03-31 10:13:25] 📊 Found 1 products in Excel file
+[2025-03-31 10:13:25] ⚙️ Configuration: Start Index=0, Batch Size=None, Threads=1
+[2025-03-31 10:13:25] 🚀 Starting SEO content generation for products 1-1 of 1
+[2025-03-31 10:13:25] 🔄 [1/1] Processing: Dehnal oudh Ateeq - 55ML (ID: 65483) - 100.0% complete
+[2025-03-31 10:13:25] 📤 Sending request to GPT-4o for Dehnal oudh Ateeq - 55ML
+[2025-03-31 10:13:43] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+[2025-03-31 10:13:43] 📥 Received response from GPT-4o (3131 chars)
+[2025-03-31 10:13:43] 📄 Saved raw GPT-4o response to seo_outputs\response_65483.txt
+[2025-03-31 10:13:43] Extracted 10 non-empty fields
+[2025-03-31 10:13:43] 📁 Saved content to seo_outputs\product_65483_Dehnal_oudh_Ateeq_-_55ML.json
+[2025-03-31 10:13:44] Found existing image ID: 65485
+[2025-03-31 10:13:45] ✅ Successfully updated image metadata via WordPress Application Password
+[2025-03-31 10:13:45] Updating product 65483 with WooCommerce API
+[2025-03-31 10:13:52] ✅ Updated product 65483 successfully
+[2025-03-31 10:13:52]   - Updated with 6 tags
+[2025-03-31 10:13:52]   - Updated with 19 meta fields
+[2025-03-31 10:13:52]   - Updated with 1 images
+[2025-03-31 10:13:52] Generated permalink slug from primary keyword: dehnal-oudh-ateeq
+[2025-03-31 10:13:56] ✅ Successfully updated product permalink to include focus keyword
+[2025-03-31 10:13:56]   - Saved API response to seo_outputs\success_65483.json
+[2025-03-31 10:13:58] ✅ Completed batch processing: 1 successful, 0 failed
+[2025-03-31 10:13:58] 
+==================================================
+[2025-03-31 10:13:58] 📊 SEO GENERATION SUMMARY
+[2025-03-31 10:13:58] ==================================================
+[2025-03-31 10:13:58] Start Time: 2025-03-31 10:13:25
+[2025-03-31 10:13:58] End Time:   2025-03-31 10:13:58
+[2025-03-31 10:13:58] Duration:   0:00:32.761073
+[2025-03-31 10:13:58] Products:   1 total, 1 successful, 0 failed
+[2025-03-31 10:13:58] Success Rate: 100.00%
+[2025-03-31 10:13:58] ==================================================
+[2025-03-31 10:13:58] Full report saved to: seo_outputs\summary_report_20250331_101325.json

@@ -1,0 +1,51 @@
+[2025-03-31 10:35:41] Loaded 2 products from fragrance_products.xlsx
+[2025-03-31 10:35:41] 🚀 Starting Fragrance SEO Content Generator with GPT-4o
+[2025-03-31 10:35:41] 📊 Found 2 products in Excel file
+[2025-03-31 10:35:41] ⚙️ Configuration: Start Index=0, Batch Size=None, Threads=1
+[2025-03-31 10:35:41] 🚀 Starting SEO content generation for products 1-2 of 2
+[2025-03-31 10:35:41] 🔄 [1/2] Processing: Angel EDP - 50ML (ID: 65446) - 50.0% complete
+[2025-03-31 10:35:41] 📤 Sending request to GPT-4o for Angel EDP - 50ML
+[2025-03-31 10:35:54] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+[2025-03-31 10:35:54] 📥 Received response from GPT-4o (3796 chars)
+[2025-03-31 10:35:54] 📄 Saved raw GPT-4o response to seo_outputs\response_65446.txt
+[2025-03-31 10:35:54] Extracted 10 non-empty fields
+[2025-03-31 10:35:54] 📁 Saved content to seo_outputs\product_65446_Angel_EDP_-_50ML.json
+[2025-03-31 10:35:54] Found existing image ID: 65413
+[2025-03-31 10:35:55] ✅ Successfully updated image metadata via WordPress Application Password
+[2025-03-31 10:35:55] Updating product 65446 with WooCommerce API
+[2025-03-31 10:36:01] ✅ Updated product 65446 successfully
+[2025-03-31 10:36:01]   - Updated with 6 tags
+[2025-03-31 10:36:01]   - Updated with 19 meta fields
+[2025-03-31 10:36:01]   - Updated with 1 images
+[2025-03-31 10:36:01] Generated permalink slug from primary keyword: angel-edp
+[2025-03-31 10:36:05] ✅ Successfully updated product permalink to include focus keyword
+[2025-03-31 10:36:05]   - Saved API response to seo_outputs\success_65446.json
+[2025-03-31 10:36:07] 🔄 [2/2] Processing: Harmonie EDP - 50ML (ID: 65504) - 100.0% complete
+[2025-03-31 10:36:07] 📤 Sending request to GPT-4o for Harmonie EDP - 50ML
+[2025-03-31 10:36:18] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+[2025-03-31 10:36:18] 📥 Received response from GPT-4o (3169 chars)
+[2025-03-31 10:36:18] 📄 Saved raw GPT-4o response to seo_outputs\response_65504.txt
+[2025-03-31 10:36:18] Extracted 10 non-empty fields
+[2025-03-31 10:36:18] 📁 Saved content to seo_outputs\product_65504_Harmonie_EDP_-_50ML.json
+[2025-03-31 10:36:19] Found existing image ID: 65506
+[2025-03-31 10:36:20] ✅ Successfully updated image metadata via WordPress Application Password
+[2025-03-31 10:36:20] Updating product 65504 with WooCommerce API
+[2025-03-31 10:36:24] ✅ Updated product 65504 successfully
+[2025-03-31 10:36:24]   - Updated with 6 tags
+[2025-03-31 10:36:24]   - Updated with 19 meta fields
+[2025-03-31 10:36:24]   - Updated with 1 images
+[2025-03-31 10:36:24] Generated permalink slug from primary keyword: harmonie-edp
+[2025-03-31 10:36:28] ✅ Successfully updated product permalink to include focus keyword
+[2025-03-31 10:36:28]   - Saved API response to seo_outputs\success_65504.json
+[2025-03-31 10:36:30] ✅ Completed batch processing: 2 successful, 0 failed
+[2025-03-31 10:36:30] 
+==================================================
+[2025-03-31 10:36:30] 📊 SEO GENERATION SUMMARY
+[2025-03-31 10:36:30] ==================================================
+[2025-03-31 10:36:30] Start Time: 2025-03-31 10:35:41
+[2025-03-31 10:36:30] End Time:   2025-03-31 10:36:30
+[2025-03-31 10:36:30] Duration:   0:00:48.849221
+[2025-03-31 10:36:30] Products:   2 total, 2 successful, 0 failed
+[2025-03-31 10:36:30] Success Rate: 100.00%
+[2025-03-31 10:36:30] ==================================================
+[2025-03-31 10:36:30] Full report saved to: seo_outputs\summary_report_20250331_103541.json

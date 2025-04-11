@@ -1,0 +1,146 @@
+2025-03-31 03:51:32,695 - INFO - [SUCCESS] Loaded 1 products from Excel file
+2025-03-31 03:55:10,046 - INFO - [SUCCESS] Loaded 20 products from Excel file
+2025-03-31 03:55:27,643 - INFO - Settings saved successfully
+2025-03-31 03:55:42,769 - INFO - Please enter both product name and URL
+2025-03-31 03:56:01,460 - INFO - Starting bulk processing of 20 products
+2025-03-31 03:56:01,524 - INFO - Processing (1/20): Y Elixir Eau De Parfum for Men - 60ml
+2025-03-31 03:56:01,525 - INFO - Generating SEO content for: Y Elixir Eau De Parfum for Men - 60ml
+2025-03-31 03:56:01,908 - INFO - Sending request to GPT-4o...
+2025-03-31 03:56:02,334 - INFO - Retrying request to /chat/completions in 0.477455 seconds
+2025-03-31 03:56:04,264 - INFO - Retrying request to /chat/completions in 0.864396 seconds
+2025-03-31 03:56:05,415 - ERROR - Error generating content with GPT-4o: Connection error.
+2025-03-31 03:56:05,417 - INFO - [ERROR] Error generating content with GPT-4o: Connection error.
+2025-03-31 03:56:07,419 - INFO - Processing (2/20): Sauvage Eau De Parfum - 100 ml
+2025-03-31 03:56:07,420 - INFO - Generating SEO content for: Sauvage Eau De Parfum - 100 ml
+2025-03-31 03:56:07,706 - INFO - Sending request to GPT-4o...
+2025-03-31 03:56:08,064 - INFO - Retrying request to /chat/completions in 0.393129 seconds
+2025-03-31 03:56:09,573 - INFO - Retrying request to /chat/completions in 0.782169 seconds
+2025-03-31 03:56:10,663 - ERROR - Error generating content with GPT-4o: Connection error.
+2025-03-31 03:56:10,663 - INFO - [ERROR] Error generating content with GPT-4o: Connection error.
+2025-03-31 03:56:12,665 - INFO - Processing (3/20): 212 Sexy Eau de Toilette
+2025-03-31 03:56:12,666 - INFO - Generating SEO content for: 212 Sexy Eau de Toilette
+2025-03-31 03:56:12,951 - INFO - Sending request to GPT-4o...
+2025-03-31 03:56:13,255 - INFO - Retrying request to /chat/completions in 0.391117 seconds
+2025-03-31 03:56:15,066 - INFO - Retrying request to /chat/completions in 0.863373 seconds
+2025-03-31 03:56:16,252 - ERROR - Error generating content with GPT-4o: Connection error.
+2025-03-31 03:56:16,253 - INFO - [ERROR] Error generating content with GPT-4o: Connection error.
+2025-03-31 03:56:18,255 - INFO - Processing (4/20): Bel Respiro Les Exclusifs De EDP - 75ml
+2025-03-31 03:56:18,256 - INFO - Generating SEO content for: Bel Respiro Les Exclusifs De EDP - 75ml
+2025-03-31 03:56:18,539 - INFO - Sending request to GPT-4o...
+2025-03-31 03:56:18,876 - INFO - Retrying request to /chat/completions in 0.426785 seconds
+2025-03-31 03:56:20,813 - INFO - Retrying request to /chat/completions in 0.959156 seconds
+2025-03-31 03:56:22,095 - ERROR - Error generating content with GPT-4o: Connection error.
+2025-03-31 03:56:22,096 - INFO - [ERROR] Error generating content with GPT-4o: Connection error.
+2025-03-31 03:56:24,098 - INFO - Processing (5/20): Instyle Blush On Blusher - N 6 - Pearl: Top 5 Radiant Looks
+2025-03-31 03:56:24,099 - INFO - Generating SEO content for: Instyle Blush On Blusher - N 6 - Pearl: Top 5 Radiant Looks
+2025-03-31 03:56:24,380 - INFO - Sending request to GPT-4o...
+2025-03-31 03:56:24,700 - INFO - Retrying request to /chat/completions in 0.479149 seconds
+2025-03-31 03:56:25,880 - INFO - Retrying request to /chat/completions in 0.960131 seconds
+2025-03-31 03:56:27,175 - ERROR - Error generating content with GPT-4o: Connection error.
+2025-03-31 03:56:27,175 - INFO - [ERROR] Error generating content with GPT-4o: Connection error.
+2025-03-31 03:56:29,177 - INFO - Processing (6/20): Regent Leather Extrait De Parfum - 50ml
+2025-03-31 03:56:29,178 - INFO - Generating SEO content for: Regent Leather Extrait De Parfum - 50ml
+2025-03-31 03:56:29,453 - INFO - Sending request to GPT-4o...
+2025-03-31 03:56:29,840 - INFO - Retrying request to /chat/completions in 0.452584 seconds
+2025-03-31 03:56:31,646 - INFO - Retrying request to /chat/completions in 0.836419 seconds
+2025-03-31 03:56:32,800 - ERROR - Error generating content with GPT-4o: Connection error.
+2025-03-31 03:56:32,801 - INFO - [ERROR] Error generating content with GPT-4o: Connection error.
+2025-03-31 03:56:34,803 - INFO - Processing (7/20): Gold Fair In Mayfair EDP - 100ml
+2025-03-31 03:56:34,804 - INFO - Generating SEO content for: Gold Fair In Mayfair EDP - 100ml
+2025-03-31 03:56:35,085 - INFO - Sending request to GPT-4o...
+2025-03-31 03:56:35,396 - INFO - Retrying request to /chat/completions in 0.493920 seconds
+2025-03-31 03:56:36,892 - INFO - Retrying request to /chat/completions in 0.920656 seconds
+2025-03-31 03:56:38,099 - ERROR - Error generating content with GPT-4o: Connection error.
+2025-03-31 03:56:38,099 - INFO - [ERROR] Error generating content with GPT-4o: Connection error.
+2025-03-31 03:56:40,101 - INFO - Processing (8/20): 1988 EDP Unisex - 100ml
+2025-03-31 03:56:40,102 - INFO - Generating SEO content for: 1988 EDP Unisex - 100ml
+2025-03-31 03:56:40,382 - INFO - Sending request to GPT-4o...
+2025-03-31 03:56:41,768 - INFO - Retrying request to /chat/completions in 0.395263 seconds
+2025-03-31 03:56:42,468 - INFO - Retrying request to /chat/completions in 0.773672 seconds
+2025-03-31 03:56:43,542 - ERROR - Error generating content with GPT-4o: Connection error.
+2025-03-31 03:56:43,542 - INFO - [ERROR] Error generating content with GPT-4o: Connection error.
+2025-03-31 03:56:45,544 - INFO - Processing (9/20): Fleur De Cabotine Gift Set - 2 pcs
+2025-03-31 03:56:45,545 - INFO - Generating SEO content for: Fleur De Cabotine Gift Set - 2 pcs
+2025-03-31 03:56:45,835 - INFO - Sending request to GPT-4o...
+2025-03-31 03:56:46,141 - INFO - Retrying request to /chat/completions in 0.395662 seconds
+2025-03-31 03:56:47,978 - INFO - Retrying request to /chat/completions in 0.870325 seconds
+2025-03-31 03:56:49,138 - ERROR - Error generating content with GPT-4o: Connection error.
+2025-03-31 03:56:49,139 - INFO - [ERROR] Error generating content with GPT-4o: Connection error.
+2025-03-31 03:56:51,140 - INFO - Processing (10/20): Oud Save The Queen Eau De Parfum - 100ml
+2025-03-31 03:56:51,141 - INFO - Generating SEO content for: Oud Save The Queen Eau De Parfum - 100ml
+2025-03-31 03:56:51,440 - INFO - Sending request to GPT-4o...
+2025-03-31 03:56:52,958 - INFO - Retrying request to /chat/completions in 0.405210 seconds
+2025-03-31 03:56:53,658 - INFO - Retrying request to /chat/completions in 0.977699 seconds
+2025-03-31 03:56:54,976 - ERROR - Error generating content with GPT-4o: Connection error.
+2025-03-31 03:56:54,977 - INFO - [ERROR] Error generating content with GPT-4o: Connection error.
+2025-03-31 03:56:56,978 - INFO - Processing (11/20): Gloss Bomb Universal Lip Luminizer - Riri
+2025-03-31 03:56:56,979 - INFO - Generating SEO content for: Gloss Bomb Universal Lip Luminizer - Riri
+2025-03-31 03:56:57,262 - INFO - Sending request to GPT-4o...
+2025-03-31 03:56:58,782 - INFO - Retrying request to /chat/completions in 0.388665 seconds
+2025-03-31 03:56:59,446 - INFO - Retrying request to /chat/completions in 0.881378 seconds
+2025-03-31 03:57:00,610 - ERROR - Error generating content with GPT-4o: Connection error.
+2025-03-31 03:57:00,611 - INFO - [ERROR] Error generating content with GPT-4o: Connection error.
+2025-03-31 03:57:02,613 - INFO - Processing (12/20): Dip Eyeliner Waterproof 24H Longlasting - Deep Black
+2025-03-31 03:57:02,614 - INFO - Generating SEO content for: Dip Eyeliner Waterproof 24H Longlasting - Deep Black
+2025-03-31 03:57:02,908 - INFO - Sending request to GPT-4o...
+2025-03-31 03:57:03,974 - INFO - Retrying request to /chat/completions in 0.445880 seconds
+2025-03-31 03:57:04,717 - INFO - Retrying request to /chat/completions in 0.872671 seconds
+2025-03-31 03:57:05,890 - ERROR - Error generating content with GPT-4o: Connection error.
+2025-03-31 03:57:05,891 - INFO - [ERROR] Error generating content with GPT-4o: Connection error.
+2025-03-31 03:57:07,893 - INFO - Processing (13/20): 1970 EDP Unisex - 100ml
+2025-03-31 03:57:07,895 - INFO - Generating SEO content for: 1970 EDP Unisex - 100ml
+2025-03-31 03:57:08,173 - INFO - Sending request to GPT-4o...
+2025-03-31 03:57:09,189 - INFO - Retrying request to /chat/completions in 0.440150 seconds
+2025-03-31 03:57:09,922 - INFO - Retrying request to /chat/completions in 0.918728 seconds
+2025-03-31 03:57:11,124 - ERROR - Error generating content with GPT-4o: Connection error.
+2025-03-31 03:57:11,126 - INFO - [ERROR] Error generating content with GPT-4o: Connection error.
+2025-03-31 03:57:13,126 - INFO - Processing (14/20): 212 Vip Black EDP
+2025-03-31 03:57:13,127 - INFO - Generating SEO content for: 212 Vip Black EDP
+2025-03-31 03:57:13,404 - INFO - Sending request to GPT-4o...
+2025-03-31 03:57:14,340 - INFO - Retrying request to /chat/completions in 0.462930 seconds
+2025-03-31 03:57:15,095 - INFO - Retrying request to /chat/completions in 0.851374 seconds
+2025-03-31 03:57:16,278 - ERROR - Error generating content with GPT-4o: Connection error.
+2025-03-31 03:57:16,279 - INFO - [ERROR] Error generating content with GPT-4o: Connection error.
+2025-03-31 03:57:18,280 - INFO - Processing (15/20): White Diamonds Body Powder - 75g
+2025-03-31 03:57:18,281 - INFO - Generating SEO content for: White Diamonds Body Powder - 75g
+2025-03-31 03:57:18,564 - INFO - Sending request to GPT-4o...
+2025-03-31 03:57:19,172 - INFO - Retrying request to /chat/completions in 0.404793 seconds
+2025-03-31 03:57:19,855 - INFO - Retrying request to /chat/completions in 0.996585 seconds
+2025-03-31 03:57:21,168 - ERROR - Error generating content with GPT-4o: Connection error.
+2025-03-31 03:57:21,169 - INFO - [ERROR] Error generating content with GPT-4o: Connection error.
+2025-03-31 03:57:23,171 - INFO - Processing (16/20): A La Rose EDP - 70ml
+2025-03-31 03:57:23,172 - INFO - Generating SEO content for: A La Rose EDP - 70ml
+2025-03-31 03:57:23,448 - INFO - Sending request to GPT-4o...
+2025-03-31 03:57:24,288 - INFO - Retrying request to /chat/completions in 0.483688 seconds
+2025-03-31 03:57:25,046 - INFO - Retrying request to /chat/completions in 0.960492 seconds
+2025-03-31 03:57:26,294 - ERROR - Error generating content with GPT-4o: Connection error.
+2025-03-31 03:57:26,295 - INFO - [ERROR] Error generating content with GPT-4o: Connection error.
+2025-03-31 03:57:28,297 - INFO - Processing (17/20): La Panthere EDP - New - 100ml
+2025-03-31 03:57:28,297 - INFO - Generating SEO content for: La Panthere EDP - New - 100ml
+2025-03-31 03:57:28,576 - INFO - Sending request to GPT-4o...
+2025-03-31 03:57:29,380 - INFO - Retrying request to /chat/completions in 0.404570 seconds
+2025-03-31 03:57:30,060 - INFO - Retrying request to /chat/completions in 0.919450 seconds
+2025-03-31 03:57:31,272 - ERROR - Error generating content with GPT-4o: Connection error.
+2025-03-31 03:57:31,272 - INFO - [ERROR] Error generating content with GPT-4o: Connection error.
+2025-03-31 03:57:33,274 - INFO - Processing (18/20): MUST DE CARTIER PARFUM - Women - 50 ML
+2025-03-31 03:57:33,276 - INFO - Generating SEO content for: MUST DE CARTIER PARFUM - Women - 50 ML
+2025-03-31 03:57:33,552 - INFO - Sending request to GPT-4o...
+2025-03-31 03:57:35,304 - INFO - Retrying request to /chat/completions in 0.424434 seconds
+2025-03-31 03:57:36,004 - INFO - Retrying request to /chat/completions in 0.813826 seconds
+2025-03-31 03:57:37,122 - ERROR - Error generating content with GPT-4o: Connection error.
+2025-03-31 03:57:37,123 - INFO - [ERROR] Error generating content with GPT-4o: Connection error.
+2025-03-31 03:57:39,125 - INFO - Processing (19/20): Must DE - EDT - women -  100ml
+2025-03-31 03:57:39,126 - INFO - Generating SEO content for: Must DE - EDT - women -  100ml
+2025-03-31 03:57:39,401 - INFO - Sending request to GPT-4o...
+2025-03-31 03:57:39,788 - INFO - Retrying request to /chat/completions in 0.420233 seconds
+2025-03-31 03:57:41,542 - INFO - Retrying request to /chat/completions in 0.779467 seconds
+2025-03-31 03:57:42,607 - ERROR - Error generating content with GPT-4o: Connection error.
+2025-03-31 03:57:42,607 - INFO - [ERROR] Error generating content with GPT-4o: Connection error.
+2025-03-31 03:57:44,609 - INFO - Processing (20/20): Creation EDT - 100ml
+2025-03-31 03:57:44,610 - INFO - Generating SEO content for: Creation EDT - 100ml
+2025-03-31 03:57:44,893 - INFO - Sending request to GPT-4o...
+2025-03-31 03:57:45,245 - INFO - Retrying request to /chat/completions in 0.442517 seconds
+2025-03-31 03:57:47,298 - INFO - Retrying request to /chat/completions in 0.962541 seconds
+2025-03-31 03:57:48,528 - ERROR - Error generating content with GPT-4o: Connection error.
+2025-03-31 03:57:48,529 - INFO - [ERROR] Error generating content with GPT-4o: Connection error.
+2025-03-31 03:57:50,530 - INFO - [SUCCESS] Processing completed!

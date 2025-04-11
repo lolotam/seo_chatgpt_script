@@ -1,0 +1,136 @@
+[2025-03-31 10:18:32] Loaded 7 products from fragrance_products.xlsx
+[2025-03-31 10:18:32] 🚀 Starting Fragrance SEO Content Generator with GPT-4o
+[2025-03-31 10:18:32] 📊 Found 7 products in Excel file
+[2025-03-31 10:18:32] ⚙️ Configuration: Start Index=0, Batch Size=None, Threads=1
+[2025-03-31 10:18:32] 🚀 Starting SEO content generation for products 1-7 of 7
+[2025-03-31 10:18:32] 🔄 [1/7] Processing: Energetic EDP - 100ML (ID: 66298) - 14.3% complete
+[2025-03-31 10:18:32] 📤 Sending request to GPT-4o for Energetic EDP - 100ML
+[2025-03-31 10:18:47] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+[2025-03-31 10:18:47] 📥 Received response from GPT-4o (3334 chars)
+[2025-03-31 10:18:47] 📄 Saved raw GPT-4o response to seo_outputs\response_66298.txt
+[2025-03-31 10:18:47] Extracted 10 non-empty fields
+[2025-03-31 10:18:47] 📁 Saved content to seo_outputs\product_66298_Energetic_EDP_-_100ML.json
+[2025-03-31 10:18:48] Found existing image ID: 66300
+[2025-03-31 10:18:49] ✅ Successfully updated image metadata via WordPress Application Password
+[2025-03-31 10:18:49] Updating product 66298 with WooCommerce API
+[2025-03-31 10:18:53] ✅ Updated product 66298 successfully
+[2025-03-31 10:18:53]   - Updated with 6 tags
+[2025-03-31 10:18:53]   - Updated with 19 meta fields
+[2025-03-31 10:18:53]   - Updated with 1 images
+[2025-03-31 10:18:53] Generated permalink slug from primary keyword: energetic-edp
+[2025-03-31 10:18:57] ✅ Successfully updated product permalink to include focus keyword
+[2025-03-31 10:18:57]   - Saved API response to seo_outputs\success_66298.json
+[2025-03-31 10:18:59] 🔄 [2/7] Processing: Mystique Femme EDP - 100 ML - Women (ID: 66931) - 28.6% complete
+[2025-03-31 10:18:59] 📤 Sending request to GPT-4o for Mystique Femme EDP - 100 ML - Women
+[2025-03-31 10:19:11] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+[2025-03-31 10:19:11] 📥 Received response from GPT-4o (3415 chars)
+[2025-03-31 10:19:11] 📄 Saved raw GPT-4o response to seo_outputs\response_66931.txt
+[2025-03-31 10:19:11] Extracted 10 non-empty fields
+[2025-03-31 10:19:11] 📁 Saved content to seo_outputs\product_66931_Mystique_Femme_EDP_-_100_ML_-_Women.json
+[2025-03-31 10:19:12] Found existing image ID: 66933
+[2025-03-31 10:19:13] ✅ Successfully updated image metadata via WordPress Application Password
+[2025-03-31 10:19:13] Updating product 66931 with WooCommerce API
+[2025-03-31 10:19:17] ✅ Updated product 66931 successfully
+[2025-03-31 10:19:17]   - Updated with 6 tags
+[2025-03-31 10:19:17]   - Updated with 19 meta fields
+[2025-03-31 10:19:17]   - Updated with 1 images
+[2025-03-31 10:19:17] Generated permalink slug from primary keyword: mystique-femme-edp
+[2025-03-31 10:19:21] ✅ Successfully updated product permalink to include focus keyword
+[2025-03-31 10:19:21]   - Saved API response to seo_outputs\success_66931.json
+[2025-03-31 10:19:23] 🔄 [3/7] Processing: Mystique Homme EDP - 100ML - Men (ID: 66935) - 42.9% complete
+[2025-03-31 10:19:23] 📤 Sending request to GPT-4o for Mystique Homme EDP - 100ML - Men
+[2025-03-31 10:19:39] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+[2025-03-31 10:19:39] 📥 Received response from GPT-4o (3287 chars)
+[2025-03-31 10:19:39] 📄 Saved raw GPT-4o response to seo_outputs\response_66935.txt
+[2025-03-31 10:19:39] Extracted 10 non-empty fields
+[2025-03-31 10:19:39] 📁 Saved content to seo_outputs\product_66935_Mystique_Homme_EDP_-_100ML_-_Men.json
+[2025-03-31 10:19:39] Found existing image ID: 66937
+[2025-03-31 10:19:40] ✅ Successfully updated image metadata via WordPress Application Password
+[2025-03-31 10:19:40] Updating product 66935 with WooCommerce API
+[2025-03-31 10:19:45] ✅ Updated product 66935 successfully
+[2025-03-31 10:19:45]   - Updated with 6 tags
+[2025-03-31 10:19:45]   - Updated with 19 meta fields
+[2025-03-31 10:19:45]   - Updated with 1 images
+[2025-03-31 10:19:45] Generated permalink slug from primary keyword: mystique-homme
+[2025-03-31 10:19:48] ✅ Successfully updated product permalink to include focus keyword
+[2025-03-31 10:19:48]   - Saved API response to seo_outputs\success_66935.json
+[2025-03-31 10:19:50] 🔄 [4/7] Processing: Night Dreams EDP - 60ML (ID: 66969) - 57.1% complete
+[2025-03-31 10:19:50] 📤 Sending request to GPT-4o for Night Dreams EDP - 60ML
+[2025-03-31 10:20:03] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+[2025-03-31 10:20:03] 📥 Received response from GPT-4o (3402 chars)
+[2025-03-31 10:20:03] 📄 Saved raw GPT-4o response to seo_outputs\response_66969.txt
+[2025-03-31 10:20:03] Extracted 10 non-empty fields
+[2025-03-31 10:20:03] 📁 Saved content to seo_outputs\product_66969_Night_Dreams_EDP_-_60ML.json
+[2025-03-31 10:20:04] Found existing image ID: 66971
+[2025-03-31 10:20:05] ✅ Successfully updated image metadata via WordPress Application Password
+[2025-03-31 10:20:05] Updating product 66969 with WooCommerce API
+[2025-03-31 10:20:09] ✅ Updated product 66969 successfully
+[2025-03-31 10:20:09]   - Updated with 6 tags
+[2025-03-31 10:20:09]   - Updated with 19 meta fields
+[2025-03-31 10:20:09]   - Updated with 1 images
+[2025-03-31 10:20:09] Generated permalink slug from primary keyword: night-dreams-edp
+[2025-03-31 10:20:13] ✅ Successfully updated product permalink to include focus keyword
+[2025-03-31 10:20:13]   - Saved API response to seo_outputs\success_66969.json
+[2025-03-31 10:20:15] 🔄 [5/7] Processing: Rafia Gold EDP - 20ML (ID: 67502) - 71.4% complete
+[2025-03-31 10:20:15] 📤 Sending request to GPT-4o for Rafia Gold EDP - 20ML
+[2025-03-31 10:20:27] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+[2025-03-31 10:20:27] 📥 Received response from GPT-4o (3076 chars)
+[2025-03-31 10:20:27] 📄 Saved raw GPT-4o response to seo_outputs\response_67502.txt
+[2025-03-31 10:20:27] Extracted 10 non-empty fields
+[2025-03-31 10:20:27] 📁 Saved content to seo_outputs\product_67502_Rafia_Gold_EDP_-_20ML.json
+[2025-03-31 10:20:28] Found existing image ID: 67504
+[2025-03-31 10:20:29] ✅ Successfully updated image metadata via WordPress Application Password
+[2025-03-31 10:20:29] Updating product 67502 with WooCommerce API
+[2025-03-31 10:20:33] ✅ Updated product 67502 successfully
+[2025-03-31 10:20:33]   - Updated with 6 tags
+[2025-03-31 10:20:33]   - Updated with 19 meta fields
+[2025-03-31 10:20:33]   - Updated with 1 images
+[2025-03-31 10:20:33] Generated permalink slug from primary keyword: rafia-gold-edp
+[2025-03-31 10:20:37] ✅ Successfully updated product permalink to include focus keyword
+[2025-03-31 10:20:37]   - Saved API response to seo_outputs\success_67502.json
+[2025-03-31 10:20:39] 🔄 [6/7] Processing: Sheikh EDP - 85ML (ID: 67849) - 85.7% complete
+[2025-03-31 10:20:39] 📤 Sending request to GPT-4o for Sheikh EDP - 85ML
+[2025-03-31 10:20:50] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+[2025-03-31 10:20:50] 📥 Received response from GPT-4o (3325 chars)
+[2025-03-31 10:20:50] 📄 Saved raw GPT-4o response to seo_outputs\response_67849.txt
+[2025-03-31 10:20:50] Extracted 10 non-empty fields
+[2025-03-31 10:20:50] 📁 Saved content to seo_outputs\product_67849_Sheikh_EDP_-_85ML.json
+[2025-03-31 10:20:51] Found existing image ID: 67851
+[2025-03-31 10:20:52] ✅ Successfully updated image metadata via WordPress Application Password
+[2025-03-31 10:20:52] Updating product 67849 with WooCommerce API
+[2025-03-31 10:20:56] ✅ Updated product 67849 successfully
+[2025-03-31 10:20:56]   - Updated with 6 tags
+[2025-03-31 10:20:56]   - Updated with 19 meta fields
+[2025-03-31 10:20:56]   - Updated with 1 images
+[2025-03-31 10:20:56] Generated permalink slug from primary keyword: sheikh-edp
+[2025-03-31 10:21:01] ✅ Successfully updated product permalink to include focus keyword
+[2025-03-31 10:21:01]   - Saved API response to seo_outputs\success_67849.json
+[2025-03-31 10:21:03] 🔄 [7/7] Processing: Signature Silver EDP - 100ML - Men (ID: 67896) - 100.0% complete
+[2025-03-31 10:21:03] 📤 Sending request to GPT-4o for Signature Silver EDP - 100ML - Men
+[2025-03-31 10:21:18] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+[2025-03-31 10:21:18] 📥 Received response from GPT-4o (3318 chars)
+[2025-03-31 10:21:18] 📄 Saved raw GPT-4o response to seo_outputs\response_67896.txt
+[2025-03-31 10:21:18] Extracted 10 non-empty fields
+[2025-03-31 10:21:18] 📁 Saved content to seo_outputs\product_67896_Signature_Silver_EDP_-_100ML_-_Men.json
+[2025-03-31 10:21:18] Found existing image ID: 67898
+[2025-03-31 10:21:19] ✅ Successfully updated image metadata via WordPress Application Password
+[2025-03-31 10:21:19] Updating product 67896 with WooCommerce API
+[2025-03-31 10:21:23] ✅ Updated product 67896 successfully
+[2025-03-31 10:21:23]   - Updated with 6 tags
+[2025-03-31 10:21:23]   - Updated with 19 meta fields
+[2025-03-31 10:21:23]   - Updated with 1 images
+[2025-03-31 10:21:23] Generated permalink slug from primary keyword: signature-silver-edp
+[2025-03-31 10:21:27] ✅ Successfully updated product permalink to include focus keyword
+[2025-03-31 10:21:27]   - Saved API response to seo_outputs\success_67896.json
+[2025-03-31 10:21:29] ✅ Completed batch processing: 7 successful, 0 failed
+[2025-03-31 10:21:29] 
+==================================================
+[2025-03-31 10:21:29] 📊 SEO GENERATION SUMMARY
+[2025-03-31 10:21:29] ==================================================
+[2025-03-31 10:21:29] Start Time: 2025-03-31 10:18:32
+[2025-03-31 10:21:29] End Time:   2025-03-31 10:21:29
+[2025-03-31 10:21:29] Duration:   0:02:56.757322
+[2025-03-31 10:21:29] Products:   7 total, 7 successful, 0 failed
+[2025-03-31 10:21:29] Success Rate: 100.00%
+[2025-03-31 10:21:29] ==================================================
+[2025-03-31 10:21:29] Full report saved to: seo_outputs\summary_report_20250331_101832.json
